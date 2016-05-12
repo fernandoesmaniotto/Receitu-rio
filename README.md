@@ -1,2 +1,2 @@
-# Receitu-rio
+# Receituario
 Projeto API Receituário Agronômico
